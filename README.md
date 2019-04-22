@@ -3,7 +3,8 @@
 ## Mabel Catalina Zapata y Gabriel Maldonado Colmenares
 ### La tarea que se propuso fue la de *clasificar* un dataset de imágenes compuestas por radiografías de pecho en las cuales 
 ### se encuentran 2 clases, las cuales son: radiografías de personas normales y radiografías de personas con pneumonia.
-Nota: Se utilizo Python 2.7 en un entorno de anaconda para el desarrollo del proyecto.
+*Nota: Se utilizo Python 2.7 en un entorno de anaconda para el desarrollo del proyecto.*
+
 En primer lugar se debe ejecutar el script *DescargaRecursos.ipynb*, esto descargará las imagenes y los pesos de la red VGG 
 mediante un enlace de dropbox.
 Ademas en este mismo script se pueden descargar las librerias utilizadas solo de ser necesario.
