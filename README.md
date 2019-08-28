@@ -1,5 +1,4 @@
-# ProyectoU3
-## Proyecto de CNN para Fundamentos de Deep Learning
+# CLASIFICACION DE RADIOGRAFIAS DE PECHO : NEUMONIA
 ## Mabel Catalina Zapata y Gabriel Maldonado Colmenares
 ### La tarea que se propuso fue la de *clasificar* un dataset de imágenes compuestas por radiografías de pecho en las cuales 
 ### se encuentran 2 clases, las cuales son: radiografías de personas normales y radiografías de personas con pneumonia.
